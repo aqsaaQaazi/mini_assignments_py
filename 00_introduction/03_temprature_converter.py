@@ -6,6 +6,9 @@
 
 
 def main():
+        """
+        The main function converts temperatures between Celsius and Fahrenheit based on user input.
+        """
     
         def to_fahrenheit(c):
                 return (c * 9/5) + 32
