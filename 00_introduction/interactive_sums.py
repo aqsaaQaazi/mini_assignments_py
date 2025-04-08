@@ -26,6 +26,6 @@ def sum():
 sum();
 
 
-
+# by doing this, my code is now modular and reusable (just like a component in next)
 if __name__ == '__sum__':
     sum()
