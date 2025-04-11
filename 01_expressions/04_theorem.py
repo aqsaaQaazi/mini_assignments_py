@@ -10,7 +10,7 @@ def main():
         ab ** 2 + ac ** 2
     )
     
-    print("According to my calculations, length of BC is:" + str(bc))
+    print(f"According to my calculations, length of BC is: {bc:.2f}")
     
     
 # this condition makes the def reusable in other modules.
